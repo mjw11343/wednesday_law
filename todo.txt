@@ -1,0 +1,2 @@
+Add 2L and 3L of the year to end of biography.
+update css for mobile
