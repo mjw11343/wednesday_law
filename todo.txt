@@ -1,2 +1,6 @@
 Add 2L and 3L of the year to end of biography.
 update css for mobile
+add disclaimers: https://pipestonelaw.com/disclaimer/
+add oneida membership
+try a wednesday background with a purple tint on the top and bottom
+fix intake button from absolute position
